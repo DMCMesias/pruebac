@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../PROGRAMACION/PRACTICAS EJERCICIOS"
+		},
+		{
+			"path": "../../../../DISEÑO DE INTERFAZ WEB/PRACTICAS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PRACTICAS"
+	}
+}
